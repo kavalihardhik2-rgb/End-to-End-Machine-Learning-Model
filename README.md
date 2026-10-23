@@ -1,6 +1,6 @@
 # End-to-End ML Model 
 
-Code for Module 2 of the AI & ML course (21AI63), collected in one Jupyter notebook. It covers two things: a full machine learning project on housing prices, and a classifier for handwritten digits.
+Code for Module 2 of the AI & ML course , collected in one Jupyter notebook. It covers two things: a full machine learning project on housing prices, and a classifier for handwritten digits.
 
 ## What the notebook covers
 
